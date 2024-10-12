@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\wyf\VS_code\c++\实验\表达式树综合题\表达式树综合题\main.cpp(88,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\wyf\VS_code\c++\实验\表达式树综合题\表达式树综合题\main.cpp(133,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\wyf\VS_code\c++\实验\表达式树综合题\表达式树综合题\main.cpp(177,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\wyf\VS_code\c++\实验\表达式树综合题\表达式树综合题\main.cpp(104,1): warning C4715: “Solution::get_result1”: 不是所有的控件路径都返回值
+  表达式树综合题.vcxproj -> D:\wyf\VS_code\c++\实验\表达式树综合题\x64\Debug\表达式树综合题.exe
