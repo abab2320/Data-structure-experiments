@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\wyf\VS_code\c++\实验\Huffman文件解码\Huffman文件解码\main.cpp(46,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\wyf\VS_code\c++\实验\Huffman文件解码\Huffman文件解码\main.cpp(87,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Huffman文件解码.vcxproj -> D:\wyf\VS_code\c++\实验\Huffman文件解码\x64\Debug\Huffman文件解码.exe
