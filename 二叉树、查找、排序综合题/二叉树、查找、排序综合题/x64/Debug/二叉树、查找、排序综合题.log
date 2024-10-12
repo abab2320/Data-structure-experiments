@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\wyf\VS_code\c++\实验\二叉树、查找、排序综合题\二叉树、查找、排序综合题\main.cpp(110,53): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  二叉树、查找、排序综合题.vcxproj -> D:\wyf\VS_code\c++\实验\二叉树、查找、排序综合题\x64\Debug\二叉树、查找、排序综合题.exe
